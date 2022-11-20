@@ -1,58 +1,121 @@
-
-[ 
-{
-    "weather": "cold",
-    "name":"Hot chocolate",
-    "ingredients":["1/4 cup granulated sugar", "1/4 cup unsweetened cocoa powder", "4 cups of milk", "1/2 cup of semisweet chocolate", "1/2 tsp vanilla extract", "whipped cream"],
-    "method": "In a medium saucepan, whisk together the sugar and cocoa powder. Add milk, chocolate chips, and vanilla and whisk together.  Place over medium heat and bring it to a light boil while stirring constantly. Be sure the chocolate is fully melted and incorporated.  Set aside to cool to your desired temperature and serve with whipped cream."
-},
-{
-    "weather": "cold",
-    "name":"S’more mocktail martini",
-    "ingredients":["4tsp instant coffee", "1/2 tsp vanilla extract", "2tsp sugar", "4tbsp salted caramel sauce", "100mL single cream", "4 rosmary sprigs"],
-    "method": "Dissolve the coffee in 400ml boiling water. Stir in the vanilla extract and sugar until dissolved, then set aside to cool.  When ready to serve, drizzle the salted caramel sauce down the sides of 4 glasses.  Add a couple of ice cubes to each glass and carefully pour in the coffee.  Divide the cream between the glasses (1-2 tbsp per glass) and lightly swirl together. Garnish with a rosemary sprig."
-},
-{
-    "weather": "cold",
-    "name":"Cinnamon and Clove Cranberry Mocktail",
-    "ingredients":["1 cup of frozen cranberries", "1/4 cup of honey", "1/2 cup of water", "1tbsp of cloves", "4 cinnamon sticks", "3 cups of unsweetened cranberry juice", "2 oranges cut into wedges", "3 cups of sparkling water"],
-    "method": "Add cranberries, honey, water, cloves, and cinnamon sticks to a small saucepan and place over medium heat.  Cook, stirring occasionally, for 8-10 minutes, or until the honey is melted and the spices are intensely fragrant.  Remove from heat and transfer to a large glass or another non-reactive bowl.  Add cranberry juice, orange wedges, and vodka, if using.  Refrigerate for several hours to overnight.  Once thoroughly chilled, remove from the refrigerator and firmly squeeze each orange wedge into the bowl to capture the juice before discarding.  Strain the mixture with a fine-mesh strainer and discard the solids.  To serve, fill serving glasses with ice and add enough of the seasoned cranberry juice mixture to fill each glass about 1/3 full.  Top off each glass with sparkling water and stir to combine."
-},
-{
-    "weather": "hot",
-    "name":"kin classic",
-    "ingredients":["2oz of high rhode", "0.5oz of lime juice", "1.5oz of tonic water", "1 lime", "cubed ice"],
-    "method": "Pour Kin High Rhode over ice in a highball glass. Add lime juice and stir for 10 seconds. Add a scoop of fresh ice and top with tonic. Serve with a lime wheel."
-},
-{
-    "weather": "hot",
-    "name":"Sparkling Grapefruit Mocktail",
-    "ingredients":["1/2 cup of soda water", "1/4 cup of pink grapefruit juice", "1tsp of sugar", "handful of mint leavees", "cubed ice", "fresh lime sliced in quarters"],
-    "method": "Muddle together your sugar, mint leaves, and sugar in your cocktail mixer or large glass until the sugars has dissolved.  Add in your freshly squeezed grapefruit juice or soda and mix them all together.  Add ice to a glass and pour in your mocktail mix.  If you want more liquid in your glass then top with Soda Water or Sparking Water.  Garnish with a few mint leaves and a slice of life."
-},
-{
-    "weather": "hot",
-    "name":"Quick Shirley Temple",
-    "ingredients":["1oz of grenadine", "1 cup of original citrus fresca", "cubed ice", "fresh orange sliced in quarters"],
-    "method": "Pour Original Citrus Fresca into a tall glass with plenty of ice. Then top with Grenadine, stir gently and garnish with orange quarters."
-},
-{
-    "weather": "warm",
-    "name":"Sparkling Raspberry Lemonade Virgin Mojito",
-    "ingredients":["15 mint leaves", "1oz of simple syrup", "2oz freshly squeezed lime juice", "8oz of Dasani Sparkling Raspberry Lemonade", "cubed ice", "raspberries", "mint", "lime wedges"],
-    "method": "Muddle together your simple syrup  mint leaves for a few minutes.  Add in the sparkling raspberry lemonade, mix well.  Add ice to a glass and pour in your mocktail mix.  Garnish with a few mint leaves and a slice of lime."
-},
-{
-    "weather": "warm",
-    "name":"S’more mocktail martini",
-    "ingredients":["1 1/2oz ritual rum alternative", "1/4oz cold brew concentrate", "3/4oz chocolate syrup", "1/2 oz of graham cracker-infused with heavy cream", "cubed ice", "marshmello"],
-    "method": "Combine all ingredients in a shaker with ice and shake well. Strain into a chilled coupe. Add garnish of roasted marshmallows and voila!"
-},
-{
-    "weather": "warm",
-    "name":"Hibiscus Iced Tea Sparkler",
-    "ingredients":["4 cups of boiling water", "8 bags fo hibiscus tea", "1/2 cup of honey", "2 cups of sparkling water", "1/4 cup of mint leaves", "cubed ice", "fresh sliced strawberries"],
-    "method": "In a large pitcher, combine tea bags, honey, and boiling water; let steep 30 minutes to 1 hour, depending on how strong you like your tea.  Remove tea bags.  Add ice to pitcher and stir in sparkling water. Add mint.  Refrigerate for 1 hour or until chilled.  Garnish with strawberries."
-}
-
+[
+    {
+        "weather": "cold",
+        "name": "Hot chocolate",
+        "ingredients": [
+            "1/4 cup granulated sugar",
+            "1/4 cup unsweetened cocoa powder",
+            "4 cups of milk",
+            "1/2 cup of semisweet chocolate",
+            "1/2 tsp vanilla extract",
+            "whipped cream"
+        ],
+        "method": "In a medium saucepan, whisk together the sugar and cocoa powder. Add milk, chocolate chips, and vanilla and whisk together.  Place over medium heat and bring it to a light boil while stirring constantly. Be sure the chocolate is fully melted and incorporated.  Set aside to cool to your desired temperature and serve with whipped cream."
+    },
+    {
+        "weather": "cold",
+        "name": "S’more mocktail martini",
+        "ingredients": [
+            "4tsp instant coffee",
+            "1/2 tsp vanilla extract",
+            "2tsp sugar",
+            "4tbsp salted caramel sauce",
+            "100mL single cream",
+            "4 rosmary sprigs"
+        ],
+        "method": "Dissolve the coffee in 400ml boiling water. Stir in the vanilla extract and sugar until dissolved, then set aside to cool.  When ready to serve, drizzle the salted caramel sauce down the sides of 4 glasses.  Add a couple of ice cubes to each glass and carefully pour in the coffee."
+    },
+    {
+        "weather": "cold",
+        "name": "Cinnamon and Clove Cranberry Mocktail",
+        "ingredients": [
+            "1 cup of frozen cranberries",
+            "1/4 cup of honey",
+            "1/2 cup of water",
+            "1tbsp of cloves",
+            "4 cinnamon sticks",
+            "3 cups of unsweetened cranberry juice",
+            "2 oranges cut into wedges",
+            "3 cups of sparkling water"
+        ],
+        "method": "Add cranberries, honey, water, cloves, and cinnamon sticks to a small saucepan and place over medium heat.  Cook, stirring occasionally, for 8-10 minutes, or until the honey is melted and the spices are intensely fragrant.  Remove from heat and transfer to a large glass or another non-reactive bowl.  Add cranberry juice, orange wedges, and vodka, if using."
+    },
+    {
+        "weather": "hot",
+        "name": "kin classic",
+        "ingredients": [
+            "2oz of high rhode",
+            "0.5oz of lime juice",
+            "1.5oz of tonic water",
+            "1 lime",
+            "cubed ice"
+        ],
+        "method": "Pour Kin High Rhode over ice in a highball glass. Add lime juice and stir for 10 seconds. Add a scoop of fresh ice and top with tonic. Serve with a lime wheel."
+    },
+    {
+        "weather": "hot",
+        "name": "Sparkling Grapefruit Mocktail",
+        "ingredients": [
+            "1/2 cup of soda water",
+            "1/4 cup of pink grapefruit juice",
+            "1tsp of sugar",
+            "handful of mint leavees",
+            "cubed ice",
+            "fresh lime sliced in quarters"
+        ],
+        "method": "Muddle together your sugar, mint leaves, and sugar in your cocktail mixer or large glass until the sugars has dissolved.  Add in your freshly squeezed grapefruit juice or soda and mix them all together.  Add ice to a glass and pour in your mocktail mix.  If you want more liquid in your glass then top with Soda Water or Sparking Water.  Garnish with a few mint leaves and a slice of life."
+    },
+    {
+        "weather": "hot",
+        "name": "Quick Shirley Temple",
+        "ingredients": [
+            "1oz of grenadine",
+            "1 cup of original citrus fresca",
+            "cubed ice",
+            "fresh orange sliced in quarters"
+        ],
+        "method": "Pour Original Citrus Fresca into a tall glass with plenty of ice. Then top with Grenadine, stir gently and garnish with orange quarters."
+    },
+    {
+        "weather": "warm",
+        "name": "Sparkling Raspberry Lemonade Virgin Mojito",
+        "ingredients": [
+            "15 mint leaves",
+            "1oz of simple syrup",
+            "2oz freshly squeezed lime juice",
+            "8oz of Dasani Sparkling Raspberry Lemonade",
+            "cubed ice",
+            "raspberries",
+            "mint",
+            "lime wedges"
+        ],
+        "method": "Muddle together your simple syrup  mint leaves for a few minutes.  Add in the sparkling raspberry lemonade, mix well.  Add ice to a glass and pour in your mocktail mix.  Garnish with a few mint leaves and a slice of lime."
+    },
+    {
+        "weather": "warm",
+        "name": "S’more mocktail martini",
+        "ingredients": [
+            "1 1/2oz ritual rum alternative",
+            "1/4oz cold brew concentrate",
+            "3/4oz chocolate syrup",
+            "1/2 oz of graham cracker-infused with heavy cream",
+            "cubed ice",
+            "marshmello"
+        ],
+        "method": "Combine all ingredients in a shaker with ice and shake well. Strain into a chilled coupe. Add garnish of roasted marshmallows and voila!"
+    },
+    {
+        "weather": "warm",
+        "name": "Hibiscus Iced Tea Sparkler",
+        "ingredients": [
+            "4 cups of boiling water",
+            "8 bags fo hibiscus tea",
+            "1/2 cup of honey",
+            "2 cups of sparkling water",
+            "1/4 cup of mint leaves",
+            "cubed ice",
+            "fresh sliced strawberries"
+        ],
+        "method": "In a large pitcher, combine tea bags, honey, and boiling water; let steep 30 minutes to 1 hour, depending on how strong you like your tea.  Remove tea bags.  Add ice to pitcher and stir in sparkling water. Add mint.  Refrigerate for 1 hour or until chilled.  Garnish with strawberries."
+    }
 ]
